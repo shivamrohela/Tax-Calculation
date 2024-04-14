@@ -27,3 +27,18 @@ Gross Annual Income: $50,000
 Extra Income: $10,000
 Deductions: $5,000
 After entering the above values and clicking "Calculate Tax," the application will display the calculated tax amount.
+
+## Hosted Web App
+
+The tax calculator web app is hosted [here](https://shivamrohela.github.io/Tax-Calculation/).
+
+## Test Results
+
+![Test Results]
+(screenshot/Screenshot (108).png)
+(screenshot/Screenshot (109).png)
+(screenshot/Screenshot (110).png)
+(screenshot/Screenshot (111).png)
+(screenshot/Screenshot (112).png)
+(screenshot/Screenshot (113).png)
+
